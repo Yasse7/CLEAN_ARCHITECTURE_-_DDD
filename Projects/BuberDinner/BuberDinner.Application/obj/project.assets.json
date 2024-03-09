@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "BuberDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BuberDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
+      "msbuildProject": "../BuberDinner.Domain/BuberDinner.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "BuberDinner.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PC\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\PC\\Desktop\\FORMATION-DOTNET\\Projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\FORMATION-DOTNET\\Projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

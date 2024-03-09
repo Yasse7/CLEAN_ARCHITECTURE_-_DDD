@@ -5,6 +5,7 @@ C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Domain\obj
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.AssemblyInfoInputs.cache
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.AssemblyInfo.cs
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.sourcelink.json
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.dll
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.Domain.dll
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
