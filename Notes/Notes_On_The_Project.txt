@@ -1,0 +1,7 @@
+Structure : 
+
+	the API needs to know the Contract , and the Application . 
+	the infrastructure needs to know the Application 
+	the API needs to know the infrastructure 
+	The application needs to know the Domain 
+	
