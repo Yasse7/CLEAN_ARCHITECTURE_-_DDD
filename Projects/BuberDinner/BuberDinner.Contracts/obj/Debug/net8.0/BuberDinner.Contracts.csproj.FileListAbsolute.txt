@@ -10,3 +10,4 @@ C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Contracts\
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
 C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
