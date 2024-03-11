@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1B3ORKXQAsqvFnLlGotHdnu0E1omWPGRpObjXxyNMG9rHXWFRnI6RkGAnNmwfZl1lgWYhdJQRjuDBrurwjfOeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yassir.JERRARI\\OneDrive - Akkodis\\Desktop\\ASP_NET_CORE_FO\\CLEAN_ARCHITECTURE_-_DDD\\Projects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yassir.JERRARI\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yassir.JERRARI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yassir.JERRARI\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.4.0\\microsoft.identitymodel.abstractions.7.4.0.nupkg.sha512",
+    "C:\\Users\\Yassir.JERRARI\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.4.0\\microsoft.identitymodel.jsonwebtokens.7.4.0.nupkg.sha512",
+    "C:\\Users\\Yassir.JERRARI\\.nuget\\packages\\microsoft.identitymodel.logging\\7.4.0\\microsoft.identitymodel.logging.7.4.0.nupkg.sha512",
+    "C:\\Users\\Yassir.JERRARI\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.4.0\\microsoft.identitymodel.tokens.7.4.0.nupkg.sha512",
+    "C:\\Users\\Yassir.JERRARI\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.4.0\\system.identitymodel.tokens.jwt.7.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

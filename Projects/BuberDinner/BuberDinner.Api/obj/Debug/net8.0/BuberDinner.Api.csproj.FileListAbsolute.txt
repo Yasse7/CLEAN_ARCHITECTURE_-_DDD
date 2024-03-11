@@ -1,0 +1,89 @@
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.exe
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.deps.json
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.runtimeconfig.json
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.pdb
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfo.cs
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.BuberDinner.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BuberDinner.Api.props
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BuberDinner.Api.props
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BuberDinner.Api.props
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\scopedcss\bundle\BuberDinner.Api.styles.css
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDin.4FE96569.Up2Date
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\refint\BuberDinner.Api.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.dll
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
+C:\Users\PC\Desktop\FORMATION-DOTNET\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.exe
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.deps.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.runtimeconfig.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.AssemblyReference.cache
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfoInputs.cache
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfo.cs
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.BuberDinner.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BuberDinner.Api.props
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BuberDinner.Api.props
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BuberDinner.Api.props
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\scopedcss\bundle\BuberDinner.Api.styles.css
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDin.4FE96569.Up2Date
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\refint\BuberDinner.Api.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\CLEAN_ARCHITECTURE_-_DDD\Projects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
