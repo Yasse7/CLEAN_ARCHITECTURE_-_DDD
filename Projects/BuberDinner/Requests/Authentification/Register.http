@@ -1,8 +1,0 @@
-POST http://localhost:5167/auth/register
-
-{
-     "FirstName" :"yassir",
-     "LastName" : "jerrari",
-     "Email" :"jerrai@test",
-     "Password":"aaze"
-}
