@@ -4,4 +4,6 @@ Structure :
 	the infrastructure needs to know the Application 
 	the API needs to know the infrastructure 
 	The application needs to know the Domain 
+
+s
 	
